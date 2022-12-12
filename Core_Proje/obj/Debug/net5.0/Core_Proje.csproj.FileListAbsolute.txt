@@ -1,0 +1,935 @@
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.Development.json
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.json
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.exe
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.deps.json
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.json
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.dev.json
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Humanizer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Runtime.Caching.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.AssemblyReference.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.GeneratedMSBuildEditorConfig.editorconfig
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfoInputs.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfo.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CoreCompileInputs.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\scopedcss\bundle\Core_Proje.styles.css
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Manifest.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.input.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.output.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorCoreGenerate.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.Views.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CopyComplete
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\refint\Core_Proje.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.genruntimeconfig.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\ref\Core_Proje.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Convention.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Hosting.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Runtime.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.TypedParts.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Sentry.Attributes.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\Sentry.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Core.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\HeaderPartial.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\NavbarPartial.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\PortFolioList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.Development.json
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.json
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.exe
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.deps.json
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.json
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.dev.json
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Core.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Humanizer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Sentry.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Convention.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Hosting.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Runtime.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.TypedParts.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Runtime.Caching.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.AssemblyReference.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Sentry.Attributes.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.GeneratedMSBuildEditorConfig.editorconfig
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfoInputs.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfo.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CoreCompileInputs.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\scopedcss\bundle\Core_Proje.styles.css
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Manifest.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.input.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.output.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorCoreGenerate.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\HeaderPartial.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\NavbarPartial.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\PortFolioList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.Views.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CopyComplete
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\refint\Core_Proje.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.genruntimeconfig.cache
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\ref\Core_Proje.dll
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\TestimonialList\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SendMessage\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactDetails\Default.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\SendMessage.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavBar.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavigation.cshtml.g.cs
+B:\Core_Proje\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\UpdateSkill.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.Development.json
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.json
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.exe
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.deps.json
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.json
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.dev.json
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Core.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Humanizer.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\Sentry.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.pdb
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.AssemblyReference.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Sentry.Attributes.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.GeneratedMSBuildEditorConfig.editorconfig
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfoInputs.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfo.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CoreCompileInputs.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\scopedcss\bundle\Core_Proje.styles.css
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Manifest.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Pack.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.Core_Proje.Microsoft.AspNetCore.StaticWebAssets.props
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.build.Core_Proje.props
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Core_Proje.props
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Core_Proje.props
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.input.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.output.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorCoreGenerate.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavBar.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavigation.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\HeaderPartial.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\NavbarPartial.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\SendMessage.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactDetails\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceList\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\PortFolioList\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SendMessage\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\TestimonialList\Default.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\UpdateSkill.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.Views.pdb
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CopyComplete
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.dll
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\refint\Core_Proje.dll
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.pdb
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.genruntimeconfig.cache
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\ref\Core_Proje.dll
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\Index.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\AddExperience.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\UpdateExperience.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\Index.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\AddPortfolio.cshtml.g.cs
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\core\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\core\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.Development.json
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.json
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.exe
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.deps.json
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.json
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.dev.json
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Core.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Humanizer.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Sentry.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.AssemblyReference.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Sentry.Attributes.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.GeneratedMSBuildEditorConfig.editorconfig
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfoInputs.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfo.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CoreCompileInputs.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\scopedcss\bundle\Core_Proje.styles.css
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Manifest.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Pack.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.Core_Proje.Microsoft.AspNetCore.StaticWebAssets.props
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.build.Core_Proje.props
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Core_Proje.props
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Core_Proje.props
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.input.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.output.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorCoreGenerate.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavBar.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavigation.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\HeaderPartial.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\NavbarPartial.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\SendMessage.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\AddExperience.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\UpdateExperience.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\AddPortfolio.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactDetails\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceList\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\PortFolioList\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SendMessage\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\TestimonialList\Default.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\UpdateSkill.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.Views.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CopyComplete
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\refint\Core_Proje.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.pdb
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.genruntimeconfig.cache
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\ref\Core_Proje.dll
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\UpdatePortfolio.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Service\UpdateService.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+E:\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.Development.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\appsettings.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.exe
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.deps.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.runtimeconfig.dev.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Core_Proje.Views.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Core.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Humanizer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\Sentry.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\BusinessLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\DataAccessLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\bin\Debug\net5.0\EntityLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.AssemblyReference.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Sentry.Attributes.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.GeneratedMSBuildEditorConfig.editorconfig
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfoInputs.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.AssemblyInfo.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CoreCompileInputs.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorAssemblyInfo.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\scopedcss\bundle\Core_Proje.styles.css
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Manifest.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\Core_Proje.StaticWebAssets.Pack.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.Core_Proje.Microsoft.AspNetCore.StaticWebAssets.props
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.build.Core_Proje.props
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Core_Proje.props
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Core_Proje.props
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.input.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.TagHelpers.output.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorCoreGenerate.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavBar.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialNavigation.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\HeaderPartial.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\NavbarPartial.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Default\SendMessage.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\AddExperience.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience\UpdateExperience.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\AddPortfolio.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\PortFolio\UpdatePortfolio.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Service\UpdateService.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactDetails\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceList\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\PortFolioList\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SendMessage\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\TestimonialList\Default.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Skill\UpdateSkill.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.RazorTargetAssemblyInfo.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.Views.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.csproj.CopyComplete
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\refint\Core_Proje.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.genruntimeconfig.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\ref\Core_Proje.dll

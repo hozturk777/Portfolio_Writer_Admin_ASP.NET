@@ -1,0 +1,100 @@
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+B:\Core_Proje\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\core\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+E:\core\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+E:\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

@@ -1,0 +1,25 @@
+﻿@model EntityLayer.Concrete.Service
+@{
+    ViewData["Title"] = "UpdateService";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+@using (Html.BeginForm("UpdateService", "Service", FormMethod.Post))
+{
+    <div class="card-header border-0" style="margin-top:10px">
+        <h3 class="mb-0">Hizmet Güncelleme Tablosu </h3>
+    </div>
+    <br />
+    @Html.HiddenFor(x=>x.ServiceID)
+    <br />
+    @Html.Label("Deneyim Başlığı")
+    @Html.TextBoxFor(x=>x.Title, new { @class = "form-control"})
+    <br />
+   
+    <label>Resim Yolu</label>
+    @Html.TextBoxFor(x=>x.ImageUrl, new { @class = "form-control"})
+    <br />
+  
+    <button class="btn btn-success">Güncelle</button>
+}

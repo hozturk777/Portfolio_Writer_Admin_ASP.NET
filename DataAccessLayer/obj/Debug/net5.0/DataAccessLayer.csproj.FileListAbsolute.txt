@@ -1,0 +1,90 @@
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+B:\Yemek Tarifi Sitesi\Core_Proje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+B:\Core_Proje\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+E:\core\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+E:\core\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+E:\core\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+E:\core\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\core\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\core\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\core\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+E:\core\Core_Proje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+E:\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+F:\hüseyin\core1\Core_Proje\Core_Proje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
