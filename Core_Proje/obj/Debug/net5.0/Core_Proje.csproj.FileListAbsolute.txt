@@ -933,3 +933,5 @@ F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\refint\Core_
 F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.pdb
 F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.genruntimeconfig.cache
 F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\ref\Core_Proje.dll
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+F:\hüseyin\core1\Core_Proje\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureStatistics\Default.cshtml.g.cs
