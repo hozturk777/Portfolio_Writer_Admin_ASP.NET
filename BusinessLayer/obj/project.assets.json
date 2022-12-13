@@ -6197,11 +6197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "F:\\hüseyin\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "F:\\hüseyin\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\BusinessLayer\\obj\\",
+      "outputPath": "F:\\hüseyin\\Core_Proje\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6222,11 +6222,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
+            "F:\\hüseyin\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "F:\\hüseyin\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
+            "F:\\hüseyin\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "F:\\hüseyin\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

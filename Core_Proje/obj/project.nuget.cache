@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uF+pGDwtABFnXxeeNULe0ZDSCy1ozCBbh0DuNjGeJQhMjULr+VnP5dM34RoRv/D1Q0e6F+VI44LYP6NkEVZUdw==",
+  "dgSpecHash": "UHvjLaO7w2kxsTpdAPm56uWLE8tUtRAkYTZYJOPB4AEhhWgLbh+qpcSyI34WJH/1pBN521i0JDORn0AYPQ5xfQ==",
   "success": true,
-  "projectFilePath": "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
+  "projectFilePath": "F:\\hüseyin\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.core\\3.7.6\\awssdk.core.3.7.6.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2\\awssdk.extensions.netcore.setup.3.7.2.nupkg.sha512",

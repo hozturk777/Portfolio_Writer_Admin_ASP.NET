@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9TfYueCPV/XG8dx9IBM0HmR0oQDtLCWQk84SzNDJH5l7uOBledsI8Btr59Zx5eKGsiPqLc4nac1dXe+o6AJvQ==",
+  "dgSpecHash": "w77jEtvKf8oC5jXdX4uritkjw5Nx6MUA34QUwsNu0TUAmZ2ZoFh7WZq3h+4PEzXVMoAgPi7v8NyGjB34YnnLiA==",
   "success": true,
-  "projectFilePath": "F:\\hüseyin\\core1\\Core_Proje\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "F:\\hüseyin\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
