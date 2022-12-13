@@ -1138,3 +1138,5 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.pdb
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Core_Proje.genruntimeconfig.cache
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\ref\Core_Proje.dll
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\Last5Projects\Default.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Admin\NewSidebar.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\StatisticsDashboard2\Default.cshtml.g.cs
