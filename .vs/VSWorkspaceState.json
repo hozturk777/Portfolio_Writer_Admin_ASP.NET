@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Core_Proje",
-    "\\Core_Proje\\ViewComponents",
-    "\\Core_Proje\\ViewComponents\\About",
     "\\Core_Proje\\Views",
+    "\\Core_Proje\\Views\\Dashboard",
     "\\Core_Proje\\Views\\Shared",
     "\\Core_Proje\\Views\\Shared\\Components",
     "\\Core_Proje\\Views\\Shared\\Components\\MessageList",
@@ -12,6 +11,6 @@
     "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0",
     "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template"
   ],
-  "SelectedNode": "\\Core_Proje.sln",
+  "SelectedNode": "\\Core_Proje\\Views\\Dashboard\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
