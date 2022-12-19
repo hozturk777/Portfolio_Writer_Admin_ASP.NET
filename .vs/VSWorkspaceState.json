@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Core_Proje",
+    "\\Core_Proje\\Areas",
+    "\\Core_Proje\\Areas\\Writer",
+    "\\Core_Proje\\Areas\\Writer\\Views",
+    "\\Core_Proje\\Areas\\Writer\\Views\\Register",
     "\\Core_Proje\\Views",
-    "\\Core_Proje\\Views\\Dashboard",
     "\\Core_Proje\\Views\\Shared",
     "\\Core_Proje\\Views\\Shared\\Components",
-    "\\Core_Proje\\Views\\Shared\\Components\\MessageList",
-    "\\Core_Proje\\wwwroot",
-    "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0",
-    "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template"
+    "\\Core_Proje\\Views\\Shared\\Components\\FeatureStatistics"
   ],
-  "SelectedNode": "\\Core_Proje\\Views\\Dashboard\\Index.cshtml",
+  "SelectedNode": "\\Core_Proje\\Areas\\Writer\\Views\\Register\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

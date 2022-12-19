@@ -1157,3 +1157,5 @@ F:\hüseyin\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptogr
 F:\hüseyin\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 F:\hüseyin\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 F:\hüseyin\Core_Proje\Core_Proje\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\_ViewImports.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Login\Index.cshtml.g.cs
