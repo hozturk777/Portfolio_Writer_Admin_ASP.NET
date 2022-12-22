@@ -11,6 +11,6 @@
     "\\Core_Proje\\Views\\Shared\\Components",
     "\\Core_Proje\\Views\\Shared\\Components\\FeatureStatistics"
   ],
-  "SelectedNode": "\\Core_Proje\\Areas\\Writer\\Views\\Register\\Index.cshtml",
+  "SelectedNode": "\\Core_Proje\\Views\\Shared\\Components\\FeatureStatistics\\Default.cshtml",
   "PreviewInSolutionExplorer": false
 }
