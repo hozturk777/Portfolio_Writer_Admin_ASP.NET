@@ -5,12 +5,12 @@
     "\\Core_Proje\\Areas",
     "\\Core_Proje\\Areas\\Writer",
     "\\Core_Proje\\Areas\\Writer\\Views",
-    "\\Core_Proje\\Areas\\Writer\\Views\\Register",
+    "\\Core_Proje\\Areas\\Writer\\Views\\Profile",
+    "\\Core_Proje\\Controllers",
     "\\Core_Proje\\Views",
-    "\\Core_Proje\\Views\\Shared",
-    "\\Core_Proje\\Views\\Shared\\Components",
-    "\\Core_Proje\\Views\\Shared\\Components\\FeatureStatistics"
+    "\\Core_Proje\\Views\\Dashboard",
+    "\\Core_Proje\\Views\\Skill"
   ],
-  "SelectedNode": "\\Core_Proje\\Views\\Shared\\Components\\FeatureStatistics\\Default.cshtml",
+  "SelectedNode": "\\Core_Proje\\Areas\\Writer\\Views\\Profile\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
