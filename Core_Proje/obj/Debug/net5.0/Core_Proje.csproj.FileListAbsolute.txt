@@ -1162,4 +1162,10 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Logi
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Default\AnnouncementDetail.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Profile\Index.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Dashboard\Index.cshtml.g.cs
-F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Shared\Components\Notification\Default.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Shared\Components\Navbar\Default.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\ReceiverMessage.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\SenderMessage.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\MessageDetails.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\SenderMessageDetails.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\SendMessage.cshtml.g.cs

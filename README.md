@@ -1,1 +1,1 @@
-# Core_Proje
+  # Core_Proje
