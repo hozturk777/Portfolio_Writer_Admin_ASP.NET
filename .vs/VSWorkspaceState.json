@@ -5,12 +5,13 @@
     "\\Core_Proje\\Areas",
     "\\Core_Proje\\Areas\\Writer",
     "\\Core_Proje\\Areas\\Writer\\Views",
+    "\\Core_Proje\\Areas\\Writer\\Views\\Default",
     "\\Core_Proje\\Areas\\Writer\\Views\\Shared",
     "\\Core_Proje\\Areas\\Writer\\Views\\Shared\\Components",
     "\\Core_Proje\\Areas\\Writer\\Views\\Shared\\Components\\Notification",
     "\\Core_Proje\\Views",
     "\\Core_Proje\\Views\\Skill"
   ],
-  "SelectedNode": "\\Core_Proje.sln",
+  "SelectedNode": "\\Core_Proje\\Areas\\Writer\\Views\\Default\\_SidebarPartial.cshtml",
   "PreviewInSolutionExplorer": false
 }
