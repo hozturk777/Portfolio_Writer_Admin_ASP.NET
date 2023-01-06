@@ -1169,3 +1169,5 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Mess
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\MessageDetails.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\SenderMessageDetails.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Message\SendMessage.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Contact\DetailsContact.cshtml.g.cs
