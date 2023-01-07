@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\Core_Proje",
-    "\\Core_Proje\\Areas",
-    "\\Core_Proje\\Areas\\Writer",
-    "\\Core_Proje\\Areas\\Writer\\Controllers",
+    "\\Core_Proje\\Controllers",
     "\\Core_Proje\\Views",
     "\\Core_Proje\\Views\\Experience",
     "\\Core_Proje\\Views\\Skill",
@@ -13,6 +11,6 @@
     "\\Core_Proje\\wwwroot\\skydash\\pages",
     "\\Core_Proje\\wwwroot\\skydash\\pages\\icons"
   ],
-  "SelectedNode": "\\Core_Proje\\Views\\Experience\\UpdateExperience.cshtml",
+  "SelectedNode": "\\Core_Proje.sln",
   "PreviewInSolutionExplorer": false
 }

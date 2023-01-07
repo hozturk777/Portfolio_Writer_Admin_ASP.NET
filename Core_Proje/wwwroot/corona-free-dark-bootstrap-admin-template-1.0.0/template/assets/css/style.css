@@ -106,6 +106,8 @@
 /* === Import template variables === */
 /*-------------------------------------------------------------------*/
 /* === SCSS Compass Functions === */
+
+
 @-moz-keyframes flash {
   0% {
     opacity: 1; }
@@ -16399,6 +16401,49 @@ code {
   background-color: rgba(0, 210, 91, 0.2);
   background-image: none;
   border-color: rgba(0, 210, 91, 0); }
+  .btn-inverse-success:not(.btn-inverse-light) {
+    color: #00d25b; }
+  .btn-inverse-success:hover {
+    color: #ffffff;
+    background-color: #00d25b;
+    border-color: #00d25b; }
+  .btn-inverse-success.focus, .btn-inverse-success:focus {
+    box-shadow: 0 0 0 3px rgba(0, 210, 91, 0.5); }
+  .btn-inverse-success.disabled, .btn-inverse-success:disabled {
+    color: #00d25b;
+    background-color: transparent; }
+  .btn-inverse-success.active, .btn-inverse-success:active,
+  .show > .btn-inverse-success.dropdown-toggle {
+    color: #ffffff;
+    background-color: #00d25b;
+    border-color: #00d25b; }
+  .btn-inverse-success {
+  background-color: rgba(0, 210, 91, 0.2);
+  background-image: none;
+  border-color: rgba(0, 210, 91, 0); }
+  .btn-inverse-success:not(.btn-inverse-light) {
+    color: #00d25b; }
+  .btn-inverse-success:hover {
+    color: #ffffff;
+    background-color: #00d25b;
+    border-color: #00d25b; }
+  .btn-inverse-success.focus, .btn-inverse-success:focus {
+    box-shadow: 0 0 0 3px rgba(0, 210, 91, 0.5); }
+  .btn-inverse-success.disabled, .btn-inverse-success:disabled {
+    color: #00d25b;
+    background-color: transparent; }
+  .btn-inverse-success.active, .btn-inverse-success:active,
+  .show > .btn-inverse-success.dropdown-toggle {
+    color: #ffffff;
+    background-color: #00d25b;
+    border-color: #00d25b; }
+    .btn-inverse-success {
+  background-color: rgba(0, 210, 91, 0.2);
+  background-image: none;
+  border-color: rgba(0, 210, 91, 0);
+  text-align:right;
+    }
+
   .btn-inverse-success:not(.btn-inverse-light) {
     color: #00d25b; }
   .btn-inverse-success:hover {

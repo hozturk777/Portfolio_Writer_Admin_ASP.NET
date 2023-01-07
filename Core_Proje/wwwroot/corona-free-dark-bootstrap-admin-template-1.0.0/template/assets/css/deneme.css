@@ -1,0 +1,22 @@
+﻿body {
+}
+.ilk {
+width:5000px;
+margin : 0;
+
+}
+.iki{
+    width:180px;
+    float:left;
+    text-align:left;
+}
+.üc{
+    width:180px;
+    text-align:left;
+    float:left;
+}
+.dört{
+    width:550px;
+    text-align:right;
+    float:left;
+}

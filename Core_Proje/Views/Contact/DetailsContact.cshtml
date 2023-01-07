@@ -8,7 +8,9 @@
     <div class="col-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title" style="font-size:25px">İletişim Kutusu</h4>
+                <h4 class="card-title" style="font-size:25px">İletişim Kutusu
+
+                </h4>
                 @Html.HiddenFor(x => x.MessageID, new { @class ="form-control"})
                 <br />
                 @Html.Label("Gönderen Adı")
@@ -23,6 +25,10 @@
                 @Html.Label("Tarih")
                 @Html.TextBoxFor(x => x.Date, new { @class = "form-control"})
 
+                <br />
+                <div style="text-align:right">
+                    <a asp-action="Index" class="btn btn-primary">Geri</a>
+                </div>
             </div>
         </div>
     </div>
