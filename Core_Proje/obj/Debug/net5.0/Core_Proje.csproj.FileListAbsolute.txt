@@ -1175,3 +1175,6 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\AdminMessage\Rece
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\AdminMessage\SenderMessageList.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\AdminMessage\AdminMessageDetails.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\AdminMessage\AdminMessageSend.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Testimonial\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Testimonial\UpdateTestimonial.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\ContactSubplace\Index.cshtml.g.cs

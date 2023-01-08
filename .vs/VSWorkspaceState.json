@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Core_Proje",
-    "\\Core_Proje\\Controllers",
     "\\Core_Proje\\Views",
-    "\\Core_Proje\\Views\\Experience",
     "\\Core_Proje\\Views\\Skill",
     "\\Core_Proje\\wwwroot",
+    "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0",
+    "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template",
     "\\Core_Proje\\wwwroot\\skydash",
     "\\Core_Proje\\wwwroot\\skydash\\pages",
     "\\Core_Proje\\wwwroot\\skydash\\pages\\icons"
   ],
-  "SelectedNode": "\\Core_Proje.sln",
+  "SelectedNode": "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template\\index.html",
   "PreviewInSolutionExplorer": false
 }
