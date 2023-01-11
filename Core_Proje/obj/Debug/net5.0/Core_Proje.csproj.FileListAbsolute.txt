@@ -1178,3 +1178,7 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\AdminMessage\Admi
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Testimonial\Index.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Testimonial\UpdateTestimonial.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\ContactSubplace\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\SocialMedia\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\SocialMedia\AddSocialMedia.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\SocialMedia\UpdateSocialMedia.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SocialMediaList\Default.cshtml.g.cs
