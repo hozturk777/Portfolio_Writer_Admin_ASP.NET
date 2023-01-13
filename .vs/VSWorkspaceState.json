@@ -2,15 +2,17 @@
   "ExpandedNodes": [
     "",
     "\\Core_Proje",
+    "\\Core_Proje\\Areas",
+    "\\Core_Proje\\Areas\\Writer",
+    "\\Core_Proje\\Areas\\Writer\\Views",
+    "\\Core_Proje\\Areas\\Writer\\Views\\Register",
     "\\Core_Proje\\Views",
-    "\\Core_Proje\\Views\\Skill",
+    "\\Core_Proje\\Views\\Shared",
     "\\Core_Proje\\wwwroot",
-    "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0",
-    "\\Core_Proje\\wwwroot\\corona-free-dark-bootstrap-admin-template-1.0.0\\template",
     "\\Core_Proje\\wwwroot\\skydash",
     "\\Core_Proje\\wwwroot\\skydash\\pages",
     "\\Core_Proje\\wwwroot\\skydash\\pages\\icons"
   ],
-  "SelectedNode": "\\Core_Proje\\Controllers\\ContactSubplaceController.cs",
+  "SelectedNode": "\\Core_Proje\\Views\\Shared\\_NewAdminLayout.cshtml",
   "PreviewInSolutionExplorer": false
 }

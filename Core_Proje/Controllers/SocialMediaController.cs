@@ -33,7 +33,7 @@ namespace Core_Proje.Controllers
         public IActionResult UpdateSocialMedia(int id)
         {
             var values = socialMediaManager.TGetByID(id);
-            return View();
+            return View(values);
         }
         [HttpPost]
         public IActionResult UpdateSocialMedia(SocialMedia socialMedia)

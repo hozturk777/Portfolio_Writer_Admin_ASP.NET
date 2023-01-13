@@ -29,7 +29,7 @@ namespace Core_Proje.Areas.Writer.Controllers
                 var result = await _signInManager.PasswordSignInAsync(p.Username, p.Password, true, true);
                 if (result.Succeeded)
                 {
-                    return RedirectToAction("Index", "Writer", "Default");
+                    return RedirectToAction( "Dashboard", "Writer");
                 }
                 else
                 {

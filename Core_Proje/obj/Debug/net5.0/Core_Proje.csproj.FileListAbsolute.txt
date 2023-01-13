@@ -1182,3 +1182,5 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\SocialMedia\Index
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\SocialMedia\AddSocialMedia.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\SocialMedia\UpdateSocialMedia.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\SocialMediaList\Default.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminNavbarMessageList\Default.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminNotificationNavbarList\Default.cshtml.g.cs
