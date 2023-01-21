@@ -46,6 +46,7 @@ namespace Core_Proje
                 options.ExpireTimeSpan = TimeSpan.FromHours(2);
 
                 options.LoginPath = "/Writer/Login/Index";
+                options.AccessDeniedPath= "/ErrorPage/Index/";
             });
 
 
@@ -71,6 +72,10 @@ namespace Core_Proje
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+
+            app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404/");
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseAuthentication();

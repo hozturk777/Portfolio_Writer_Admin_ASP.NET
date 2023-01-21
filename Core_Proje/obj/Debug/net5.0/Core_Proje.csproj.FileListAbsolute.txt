@@ -1185,3 +1185,7 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminNavbarMessageList\Default.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminNotificationNavbarList\Default.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\AdminLogin\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\ErrorPage\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\WriterUser\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience2\Index.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\ErrorPage\Error404.cshtml.g.cs
