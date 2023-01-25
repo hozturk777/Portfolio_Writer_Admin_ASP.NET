@@ -2,17 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Core_Proje",
-    "\\Core_Proje\\Areas",
-    "\\Core_Proje\\Areas\\Writer",
-    "\\Core_Proje\\Areas\\Writer\\Views",
-    "\\Core_Proje\\Areas\\Writer\\Views\\Login",
     "\\Core_Proje\\Views",
-    "\\Core_Proje\\Views\\Dashboard",
+    "\\Core_Proje\\Views\\Shared",
+    "\\Core_Proje\\Views\\Shared\\Components",
+    "\\Core_Proje\\Views\\Shared\\Components\\MessageList",
+    "\\Core_Proje\\Views\\Testimonial",
     "\\Core_Proje\\wwwroot",
     "\\Core_Proje\\wwwroot\\skydash",
     "\\Core_Proje\\wwwroot\\skydash\\pages",
     "\\Core_Proje\\wwwroot\\skydash\\pages\\icons"
   ],
-  "SelectedNode": "\\Core_Proje\\Views\\Dashboard\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

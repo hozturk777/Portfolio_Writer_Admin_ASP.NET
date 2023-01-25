@@ -1,0 +1,32 @@
+﻿@model Core_Proje.Areas.Writer.Models.UserSettingsViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Şifre Güncelleme</h4>
+
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+
+                <div class="form-group">
+                    <label for="exampleInputPassword3">Şifreniz</label>
+                    <input type="password" asp-for="Password" class="form-control" id="exampleInputPassword3" placeholder="Şifre">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Şifre Tekrar</label>
+                    <input type="password" asp-for="PasswordConfirm" class="form-control" id="exampleInputPassword4" placeholder="Şifre Tekrar">
+                </div>
+
+
+
+
+                <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+                <button class="btn btn-light">İptal</button>
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1189,3 +1189,5 @@ F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\ErrorPage\Index.c
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\WriterUser\Index.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Experience2\Index.cshtml.g.cs
 F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\ErrorPage\Error404.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Views\Testimonial\AddTestimonial.cshtml.g.cs
+F:\hüseyin\Core_Proje\Core_Proje\obj\Debug\net5.0\Razor\Areas\Writer\Views\Settings\Index.cshtml.g.cs
